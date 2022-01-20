@@ -1,0 +1,19 @@
+{
+  "name": "globaldiscos",
+  "version": "1.0.0",
+  "description": "loja de discos, descubra discos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "disos",
+    "loja",
+    "de",
+    "discos",
+    "rock",
+    "antigo"
+  ],
+  "author": "Gabriela Reis",
+  "license": "ISC"
+}
